@@ -20,8 +20,6 @@ HTML5: For content structure.
 
 CSS3: For styling and responsiveness.
 
-JavaScript: For any dynamic features.
-
 🛠️ Installation & Setup
 Clone the repository:
 
