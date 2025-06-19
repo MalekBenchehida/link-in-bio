@@ -37,8 +37,6 @@ Easily customize by editing index.html and style.css:
 
 index.html: Change your name/title, profile picture URL, and all your links and social media icon links.
 
-style.css: Adjust colors, fonts, and other visual aspects.
-
 For Deployment with GitHub Pages: Push changes to GitHub, go to repository settings > Pages, select your branch (main), and your site will be live at https://MalekBenchehida.github.io/link-in-bio/.
 
 🤝 Contributing
