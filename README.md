@@ -1,4 +1,3 @@
-Malek Benchehida / Link in Bio
 🌟 Overview
 Welcome to my personal "Link in Bio" project! This repository hosts a simple, elegant, and highly customizable landing page designed to centralize all your important links, social media profiles, and online presence in one easy-to-share URL. Perfect for anyone looking to streamline their digital footprint, whether you're a content creator, freelancer, artist, or just someone who wants to share their various online spaces effortlessly.
 
